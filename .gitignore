@@ -1,0 +1,49 @@
+# ===== Node.js / Express (Backend) =====
+Backend/node_modules/
+Backend/.env
+Backend/uploads/
+Backend/package-lock.json
+Backend/npm-debug.log*
+Backend/yarn-debug.log*
+Backend/yarn-error.log*
+Backend/.DS_Store
+
+# ===== React + Vite (Frontend) =====
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.env
+Frontend/.DS_Store
+Frontend/package-lock.json
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+
+# ===== Logs =====
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# ===== IDE / OS Files =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ===== Build / Cache =====
+.cache/
+.temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ===== Misc =====
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===== Git =====
+.gitignore
